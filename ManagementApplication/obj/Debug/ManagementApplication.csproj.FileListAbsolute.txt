@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\bin\Debug\ManagementApplication.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\bin\Debug\ManagementApplication.exe
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\bin\Debug\ManagementApplication.pdb
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.exe
+c:\users\user\documents\visual studio 2015\Projects\ManagementApplication\ManagementApplication\obj\Debug\ManagementApplication.pdb
